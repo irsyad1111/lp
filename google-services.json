@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919065792952",
+    "project_id": "demoojol-2190b",
+    "storage_bucket": "demoojol-2190b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919065792952:android:474b65cac03d9bd1c13f4d",
+        "android_client_info": {
+          "package_name": "com.angkasatekno.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919065792952-qnapqa00hamdeapbo7nd05duevc5cp49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angkasatekno.demo",
+            "certificate_hash": "8845546eb510bc6a1edb848ffebf4efbd5e7d0b6"
+          }
+        },
+        {
+          "client_id": "919065792952-i8cu3300ampcoshq625a36dv27icvja6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkXpav35JxWSLosg_GqfM_UwDXNxs2Kc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919065792952-i8cu3300ampcoshq625a36dv27icvja6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
